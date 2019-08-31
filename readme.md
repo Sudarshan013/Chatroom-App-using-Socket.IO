@@ -1,7 +1,8 @@
 ### Running the Chatroop app
 1) git clone the repository
+
 2)Run the app in the development mode.
-Open httplocalhost3000 to view it in the browser.
+Open http://localhost:3000/ to view it in the browser.
 
 
 ### Chatroom App using SOCKET.IO
