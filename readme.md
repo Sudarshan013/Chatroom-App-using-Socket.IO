@@ -1,5 +1,5 @@
 ### Running the Chatroop app
-1) git clone the repository
+1)clone the repository
 
 2)Run the app in the development mode.
 Open http://localhost:3000/ to view it in the browser.
