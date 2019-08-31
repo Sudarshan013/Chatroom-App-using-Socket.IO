@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WS</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.dev.js"></script>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header style="color: #040d61; text-align: center"><h1>Welcome to Chat Room!!</h1> </header>
+    <div id="main-window">
+        <div id="chat-window">
+            <div id="output"> 
+             </div>
+             <div id="feedback"></div>
+        </div>
+        <input type="text"  id="handle" placeholder="Username"/>
+        <input type="text" id="message" placeholder="message"/>
+        <button id="send">Send</button>
+    </div>
+    <script src="/chat.js"></script>
+</body>
+</html>
