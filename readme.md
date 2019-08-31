@@ -14,5 +14,8 @@ Chatroom app also broadcasts the message about name of client while typing the m
 
 ### Stack
 
-#Server #Side: NodeJS(express)
-#Front #end : HTML,CSS,Vanilla Javascript
+## Frontend
+HTML,CSS,Vanilla Javascript
+
+## Server Side
+Node JS(Express JS)
