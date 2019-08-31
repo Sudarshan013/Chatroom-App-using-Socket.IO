@@ -9,4 +9,4 @@ Open httplocalhost3000 to view it in the browser.
 This is my first app using socket.io. This is a simulation of real time chatroom, which enables to communicate among several parallel clients.
 Chatroom app also broadcasts the message about name of client while typing the message
 
-[![Broadcast message](httpsi.ibb.costzTqSrScreenshot-581.png Broadcast message)](httpsi.ibb.costzTqSrScreenshot-581.png Broadcast message)
+![Chatroom broadcasting the typing message](https://i.ibb.co/stzTqSr/Screenshot-581.png)
