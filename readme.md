@@ -12,7 +12,7 @@ Chatroom app also broadcasts the message about name of client while typing the m
 
 ![Chatroom broadcasting the typing message](https://i.ibb.co/stzTqSr/Screenshot-581.png)
 
-### Stack
+## Stack
 
 ##### Frontend
 HTML,CSS,Vanilla Javascript
