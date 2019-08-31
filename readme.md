@@ -11,3 +11,8 @@ This is my first app using socket.io. This is a simulation of real time chatroom
 Chatroom app also broadcasts the message about name of client while typing the message
 
 ![Chatroom broadcasting the typing message](https://i.ibb.co/stzTqSr/Screenshot-581.png)
+
+### Stack
+
+#Server #Side: NodeJS(express)
+#Front #end : HTML,CSS,Vanilla Javascript
